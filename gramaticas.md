@@ -11,11 +11,10 @@ Análogamente, en una gramática regular izquierda, las reglas son de la siguien
 + A → a, donde A es un símbolo no-terminal en N y a uno terminal en Σ  
 + A → Ba, donde A y B pertenecen a N y a pertenece a Σ  
 + A → ε, donde A pertenece a N.  
-```
-Nota:  
-Si mezclamos reglas de una regular derecha y una regular izquierda lo que obtenemos   
+
+Nota
+: Si mezclamos reglas de una regular derecha y una regular izquierda lo que obtenemos   
 sigue siendo una gramatica lineal pero no necesariamente una gramatica regular.
-```
 
 Por ejemplo la gramatoca G con N = {S, A}, Σ = {a, b}, P con simbolo inicial S y reglas:  
 
