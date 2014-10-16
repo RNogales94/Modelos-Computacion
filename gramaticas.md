@@ -22,4 +22,4 @@ Por ejemplo la gramatoca G con N = {S, A}, Σ = {a, b}, P con simbolo inicial S 
 + S → aA  
 + A → Sb  
 + S → ε  
-genera \{ a^ib^i : i \geq 0\}, que es un lenguaje lineal no regular.  
+genera $a^ib^i : i \geq 0$, que es un lenguaje lineal no regular.  
